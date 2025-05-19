@@ -1,0 +1,18 @@
+print("Area do Quadrado")
+print()
+print("Formula: Área = Lado² ou A=L²")
+print()
+area_1 = int(input("Valor do Lado = "))
+print()
+print()
+print()
+calc_1 = area_1 * area_1
+print("Volume do Quadrado")
+print()
+print("Formula: Volume = Aresta³ ou V=a³")
+print()
+Volu_1 = int(input("Valor da Aresta = "))
+calc_2 = Volu_1 * Volu_1 * Volu_1
+print()
+print("Area do Quadrado",calc_1)
+print("Volume do Quadrado",calc_2)
